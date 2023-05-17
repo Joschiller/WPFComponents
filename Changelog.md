@@ -2,4 +2,5 @@
 
 ## Version 1.0.0
 
-- FEATURE LIST
+- add ImageButton
+- add NumericUpDown
