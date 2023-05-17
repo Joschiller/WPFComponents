@@ -1,4 +1,4 @@
-# LIBRARY NAME
+# WPFComponents
 
 - [1 Introduction](#1-introduction)
 - [2 API](#2-api)
