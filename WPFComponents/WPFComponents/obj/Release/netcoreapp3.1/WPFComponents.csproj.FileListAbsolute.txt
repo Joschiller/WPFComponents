@@ -1,0 +1,17 @@
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\bin\Release\netcoreapp3.1\WPFComponents.deps.json
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\bin\Release\netcoreapp3.1\WPFComponents.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\bin\Release\netcoreapp3.1\WPFComponents.pdb
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents.csproj.AssemblyReference.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\ImageButton.g.cs
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\NumericUpDown.g.cs
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents_MarkupCompile.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents_MarkupCompile.lref
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\ImageButton.baml
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\NumericUpDown.baml
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents.g.resources
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents.AssemblyInfoInputs.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents.AssemblyInfo.cs
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents.csproj.CoreCompileInputs.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Release\netcoreapp3.1\WPFComponents.pdb
