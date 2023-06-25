@@ -1,0 +1,15 @@
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\bin\Debug\WPFComponents.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\bin\Debug\WPFComponents.pdb
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\WPFComponents.csproj.AssemblyReference.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\ImageButton.g.cs
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\NumericUpDown.g.cs
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\WPFComponents_MarkupCompile.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\WPFComponents_MarkupCompile.lref
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\ImageButton.baml
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\NumericUpDown.baml
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\WPFComponents.g.resources
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\WPFComponents.Properties.Resources.resources
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\WPFComponents.csproj.GenerateResource.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\WPFComponents.csproj.CoreCompileInputs.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\WPFComponents.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\WPFComponents\WPFComponents\WPFComponents\obj\Debug\WPFComponents.pdb
